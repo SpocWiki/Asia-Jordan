@@ -40,11 +40,18 @@ markerFolder: ./Amman/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman|Amman]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.public|Amman.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.internal|Amman.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.protect|Amman.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.private|Amman.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.personal|Amman.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Amman.secret|Amman.secret]] 
+
+### #is_/same_as :: [Amman](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Amman.md) 
+
+### #is_/same_as :: [Amman.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Amman.public.md) 
+
+### #is_/same_as :: [Amman.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Amman.internal.md) 
+
+### #is_/same_as :: [Amman.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Amman.protect.md) 
+
+### #is_/same_as :: [Amman.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Amman.private.md) 
+
+### #is_/same_as :: [Amman.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Amman.personal.md) 
+
+### #is_/same_as :: [Amman.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Amman.secret.md)
 

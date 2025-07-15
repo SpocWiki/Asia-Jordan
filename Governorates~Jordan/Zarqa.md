@@ -40,11 +40,18 @@ markerFolder: ./Zarqa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa|Zarqa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.public|Zarqa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.internal|Zarqa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.protect|Zarqa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.private|Zarqa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.personal|Zarqa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Zarqa.secret|Zarqa.secret]] 
+
+### #is_/same_as :: [Zarqa](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Zarqa.md) 
+
+### #is_/same_as :: [Zarqa.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Zarqa.public.md) 
+
+### #is_/same_as :: [Zarqa.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Zarqa.internal.md) 
+
+### #is_/same_as :: [Zarqa.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Zarqa.protect.md) 
+
+### #is_/same_as :: [Zarqa.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Zarqa.private.md) 
+
+### #is_/same_as :: [Zarqa.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Zarqa.personal.md) 
+
+### #is_/same_as :: [Zarqa.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Zarqa.secret.md)
 

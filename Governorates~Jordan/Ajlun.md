@@ -40,11 +40,18 @@ markerFolder: ./Ajlun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun|Ajlun]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.public|Ajlun.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.internal|Ajlun.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.protect|Ajlun.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.private|Ajlun.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.personal|Ajlun.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Ajlun.secret|Ajlun.secret]] 
+
+### #is_/same_as :: [Ajlun](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ajlun.md) 
+
+### #is_/same_as :: [Ajlun.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ajlun.public.md) 
+
+### #is_/same_as :: [Ajlun.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ajlun.internal.md) 
+
+### #is_/same_as :: [Ajlun.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ajlun.protect.md) 
+
+### #is_/same_as :: [Ajlun.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ajlun.private.md) 
+
+### #is_/same_as :: [Ajlun.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ajlun.personal.md) 
+
+### #is_/same_as :: [Ajlun.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ajlun.secret.md)
 

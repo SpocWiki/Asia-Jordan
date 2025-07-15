@@ -128,10 +128,4 @@ Capital :: [[Jordan/Counties/Amman/City/Amman]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Jordan|Jordan]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan.internal|Jordan.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan.protect|Jordan.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Jordan.private|Jordan.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan.personal|Jordan.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan.secret|Jordan.secret]] 
+

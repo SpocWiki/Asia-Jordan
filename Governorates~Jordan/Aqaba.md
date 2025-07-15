@@ -40,11 +40,18 @@ markerFolder: ./Aqaba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba|Aqaba]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.public|Aqaba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.internal|Aqaba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.protect|Aqaba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.private|Aqaba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.personal|Aqaba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Aqaba.secret|Aqaba.secret]] 
+
+### #is_/same_as :: [Aqaba](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.md) 
+
+### #is_/same_as :: [Aqaba.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.public.md) 
+
+### #is_/same_as :: [Aqaba.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.internal.md) 
+
+### #is_/same_as :: [Aqaba.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.protect.md) 
+
+### #is_/same_as :: [Aqaba.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.private.md) 
+
+### #is_/same_as :: [Aqaba.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.personal.md) 
+
+### #is_/same_as :: [Aqaba.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.secret.md)
 

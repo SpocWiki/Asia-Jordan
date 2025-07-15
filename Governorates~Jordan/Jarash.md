@@ -40,11 +40,18 @@ markerFolder: ./Jarash/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash|Jarash]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.public|Jarash.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.internal|Jarash.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.protect|Jarash.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.private|Jarash.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.personal|Jarash.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Jarash.secret|Jarash.secret]] 
+
+### #is_/same_as :: [Jarash](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Jarash.md) 
+
+### #is_/same_as :: [Jarash.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Jarash.public.md) 
+
+### #is_/same_as :: [Jarash.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Jarash.internal.md) 
+
+### #is_/same_as :: [Jarash.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Jarash.protect.md) 
+
+### #is_/same_as :: [Jarash.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Jarash.private.md) 
+
+### #is_/same_as :: [Jarash.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Jarash.personal.md) 
+
+### #is_/same_as :: [Jarash.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Jarash.secret.md)
 

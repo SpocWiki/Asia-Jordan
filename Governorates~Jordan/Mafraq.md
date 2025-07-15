@@ -40,11 +40,18 @@ markerFolder: ./Mafraq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq|Mafraq]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.public|Mafraq.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.internal|Mafraq.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.protect|Mafraq.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.private|Mafraq.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.personal|Mafraq.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Mafraq.secret|Mafraq.secret]] 
+
+### #is_/same_as :: [Mafraq](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.md) 
+
+### #is_/same_as :: [Mafraq.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.public.md) 
+
+### #is_/same_as :: [Mafraq.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.internal.md) 
+
+### #is_/same_as :: [Mafraq.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.protect.md) 
+
+### #is_/same_as :: [Mafraq.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.private.md) 
+
+### #is_/same_as :: [Mafraq.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.personal.md) 
+
+### #is_/same_as :: [Mafraq.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.secret.md)
 

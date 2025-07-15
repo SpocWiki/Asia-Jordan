@@ -40,11 +40,18 @@ markerFolder: ./Madaba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba|Madaba]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.public|Madaba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.internal|Madaba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.protect|Madaba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.private|Madaba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.personal|Madaba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Jordan/Counties/Madaba.secret|Madaba.secret]] 
+
+### #is_/same_as :: [Madaba](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Madaba.md) 
+
+### #is_/same_as :: [Madaba.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Madaba.public.md) 
+
+### #is_/same_as :: [Madaba.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Madaba.internal.md) 
+
+### #is_/same_as :: [Madaba.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Madaba.protect.md) 
+
+### #is_/same_as :: [Madaba.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Madaba.private.md) 
+
+### #is_/same_as :: [Madaba.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Madaba.personal.md) 
+
+### #is_/same_as :: [Madaba.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Madaba.secret.md)
 
