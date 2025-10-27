@@ -26,14 +26,16 @@ publishDate:
 expiryDate:
 ---
 
-# Ma`an
+# [[Ma`an]]
+
+## #has_/map 
 
 ```leaflet
 id: Ma`an
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Ma`an/
+geojsonFolder: ./Ma`an//
 markerFolder: ./Ma`an/
 ```
 
