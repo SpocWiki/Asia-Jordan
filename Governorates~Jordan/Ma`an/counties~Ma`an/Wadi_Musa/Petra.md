@@ -112,3 +112,20 @@ Commons_category: Petra, Jordan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Petra) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an/counties~Ma`an/Wadi_Musa/Petra|Petra]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an/counties~Ma`an/Wadi_Musa/Petra.public|Petra.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an/counties~Ma`an/Wadi_Musa/Petra.internal|Petra.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an/counties~Ma`an/Wadi_Musa/Petra.protect|Petra.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an/counties~Ma`an/Wadi_Musa/Petra.private|Petra.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an/counties~Ma`an/Wadi_Musa/Petra.personal|Petra.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an/counties~Ma`an/Wadi_Musa/Petra.secret|Petra.secret]] 
+

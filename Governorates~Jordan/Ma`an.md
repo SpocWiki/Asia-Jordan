@@ -42,17 +42,17 @@ markerFolder: ./Ma`an/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ma`an](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an|Ma`an]] 
 
-### #is_/same_as :: [Ma`an.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.public|Ma`an.public]] 
 
-### #is_/same_as :: [Ma`an.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.internal|Ma`an.internal]] 
 
-### #is_/same_as :: [Ma`an.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.protect|Ma`an.protect]] 
 
-### #is_/same_as :: [Ma`an.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.private|Ma`an.private]] 
 
-### #is_/same_as :: [Ma`an.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.personal|Ma`an.personal]] 
 
-### #is_/same_as :: [Ma`an.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Ma`an.secret|Ma`an.secret]] 
 

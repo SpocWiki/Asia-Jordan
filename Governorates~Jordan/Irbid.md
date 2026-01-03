@@ -40,17 +40,17 @@ markerFolder: ./Irbid/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Irbid](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid|Irbid]] 
 
-### #is_/same_as :: [Irbid.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.public|Irbid.public]] 
 
-### #is_/same_as :: [Irbid.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.internal|Irbid.internal]] 
 
-### #is_/same_as :: [Irbid.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.protect|Irbid.protect]] 
 
-### #is_/same_as :: [Irbid.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.private|Irbid.private]] 
 
-### #is_/same_as :: [Irbid.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.personal|Irbid.personal]] 
 
-### #is_/same_as :: [Irbid.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Irbid.secret|Irbid.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Balqa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Balqa](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa|Balqa]] 
 
-### #is_/same_as :: [Balqa.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.public|Balqa.public]] 
 
-### #is_/same_as :: [Balqa.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.internal|Balqa.internal]] 
 
-### #is_/same_as :: [Balqa.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.protect|Balqa.protect]] 
 
-### #is_/same_as :: [Balqa.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.private|Balqa.private]] 
 
-### #is_/same_as :: [Balqa.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.personal|Balqa.personal]] 
 
-### #is_/same_as :: [Balqa.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Balqa.secret|Balqa.secret]] 
 

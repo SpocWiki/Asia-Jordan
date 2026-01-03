@@ -40,17 +40,17 @@ markerFolder: ./Karak/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karak](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak|Karak]] 
 
-### #is_/same_as :: [Karak.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.public|Karak.public]] 
 
-### #is_/same_as :: [Karak.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.internal|Karak.internal]] 
 
-### #is_/same_as :: [Karak.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.protect|Karak.protect]] 
 
-### #is_/same_as :: [Karak.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.private|Karak.private]] 
 
-### #is_/same_as :: [Karak.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.personal|Karak.personal]] 
 
-### #is_/same_as :: [Karak.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Karak.secret|Karak.secret]] 
 

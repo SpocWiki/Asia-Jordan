@@ -40,17 +40,17 @@ markerFolder: ./Aqaba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aqaba](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba|Aqaba]] 
 
-### #is_/same_as :: [Aqaba.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.public|Aqaba.public]] 
 
-### #is_/same_as :: [Aqaba.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.internal|Aqaba.internal]] 
 
-### #is_/same_as :: [Aqaba.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.protect|Aqaba.protect]] 
 
-### #is_/same_as :: [Aqaba.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.private|Aqaba.private]] 
 
-### #is_/same_as :: [Aqaba.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.personal|Aqaba.personal]] 
 
-### #is_/same_as :: [Aqaba.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Aqaba.secret|Aqaba.secret]] 
 

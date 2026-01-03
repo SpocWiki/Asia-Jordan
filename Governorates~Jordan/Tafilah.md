@@ -40,17 +40,17 @@ markerFolder: ./Tafilah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tafilah](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah|Tafilah]] 
 
-### #is_/same_as :: [Tafilah.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.public|Tafilah.public]] 
 
-### #is_/same_as :: [Tafilah.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.internal|Tafilah.internal]] 
 
-### #is_/same_as :: [Tafilah.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.protect|Tafilah.protect]] 
 
-### #is_/same_as :: [Tafilah.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.private|Tafilah.private]] 
 
-### #is_/same_as :: [Tafilah.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.personal|Tafilah.personal]] 
 
-### #is_/same_as :: [Tafilah.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Tafilah.secret|Tafilah.secret]] 
 

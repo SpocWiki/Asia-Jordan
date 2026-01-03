@@ -40,17 +40,17 @@ markerFolder: ./Mafraq/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mafraq](/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq|Mafraq]] 
 
-### #is_/same_as :: [Mafraq.public](/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.public|Mafraq.public]] 
 
-### #is_/same_as :: [Mafraq.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.internal|Mafraq.internal]] 
 
-### #is_/same_as :: [Mafraq.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.protect|Mafraq.protect]] 
 
-### #is_/same_as :: [Mafraq.private](/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.private|Mafraq.private]] 
 
-### #is_/same_as :: [Mafraq.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.personal|Mafraq.personal]] 
 
-### #is_/same_as :: [Mafraq.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Jordan/Governorates~Jordan/Mafraq.secret|Mafraq.secret]] 
 
