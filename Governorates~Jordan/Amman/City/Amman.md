@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::31.95] 
 [name::Amman] 
 State ::  
-Country :: [[../../../../Jordan]]  
+Country :: [[../../../../Jordan|Jordan]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

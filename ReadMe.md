@@ -118,7 +118,7 @@ markerFolder: ./
 [Area-Land::88930] 
 Continent :: [[Asia]]  
 [VehicleCode::JOR] 
-Capital :: [[Jordan/Counties/Amman/City/Amman]] 
+Capital :: [[Jordan/Counties/Amman/City/Amman|Amman]] 
 ![[Jordan/Coat_of_arms_of_Jordan.svg|350]]  
 ![[Anthem-Jordan.mp3]]
 ![[Jordan/Flag_of_Jordan.svg|350]]  
