@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mafraq/
 markerFolder: ./Mafraq/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

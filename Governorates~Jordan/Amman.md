@@ -148,7 +148,7 @@ maxZoom: 18
 geojsonFolder: ./Amman/
 markerFolder: ./Amman/
 ```
-#is_/same_as :: [[../../../../../../WikiData/WD~Amman,3805|WD~Amman,3805]]
+#is_/same_as :: [[../../../../../../WikiData/WD~Amman,3805|WD~Amman,3805]] 
 
 
 ## Confidential Links & Embeds: 

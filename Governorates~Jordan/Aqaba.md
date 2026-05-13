@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Aqaba/
 markerFolder: ./Aqaba/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
