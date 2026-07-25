@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 约旦哈希姆王国
 dv_UNTERM_French_Formal: le Royaume hachémite de Jordanie
 dv_UNTERM_Russian: Иордания
 dv_UNTERM_Russian_Formal: Иорданское Хашимитское Королевство
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Jordan]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -52,7 +52,7 @@ dv_ISO2: JO
 dv_ISO3: JOR
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Jordan,810|WD~Jordan,810]]'
+  - '[[../../../../../WikiData/WD~Jordan,810|WD~Jordan,810]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~West/Jordan|Jordan]]'
   - '[[/_public/Earth/Continent/Asia/Asia~West/Jordan.public|Jordan.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~West/Jordan.internal|Jordan.internal]]'
@@ -359,17 +359,17 @@ dv_has_:
 dv_has_name_de: Jordanien
 dv_Area-Total: 88946
 dv_Area-Land: 88930
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: JOR
-dv_Capital: '[[Jordan/Counties/Amman/City/Amman|Amman]]'
+dv_Capital: '[[Counties/Amman/City/Amman|Amman]]'
 dv_Alcohol-l: 0.7
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 35.93
 dv_has_place_latitude: 31.95
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Jordan,810|WD~Jordan,810]]'
+- '[[../../../../../WikiData/WD~Jordan,810|WD~Jordan,810]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~West/Jordan|Jordan]]'
 - '[[/_public/Earth/Continent/Asia/Asia~West/Jordan.public|Jordan.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~West/Jordan.internal|Jordan.internal]]'
@@ -923,7 +923,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Jordan/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -946,9 +946,9 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Jordan/Coat_of_arms_of_Jordan.svg|350]]  
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Jordan.mp3|Anthem-Jordan.mp3]]
-![[Jordan/Flag_of_Jordan.svg|350]]  
+![[Coat_of_arms_of_Jordan.svg|350]]  
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Jordan.mp3|Anthem-Jordan.mp3]]
+![[Flag_of_Jordan.svg|350]]  
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
@@ -960,7 +960,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ```leaflet
 id: Jordan_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
